@@ -570,6 +570,8 @@
 - [ICML2022-Welcome to the "Big Model" Era: Techniques and Systems to Train and Serve Bigger Models](https://icml.cc/virtual/2022/tutorial/18440)
 - [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
 - [LLM‑RL‑Visualized (EN)](https://github.com/changyeyu/LLM-RL-Visualized/blob/master/src/README_EN.md) | [LLM‑RL‑Visualized (中文)](https://github.com/changyeyu/LLM-RL-Visualized) - 100+  LLM / RL Algorithm Maps📚.
+- [AI Engineering: Zero to Production](https://ai.studybydoing.in) - Free, hands-on AI engineering course: build RAG, agents, evaluation and production systems by hand,
+  with an in-browser Python terminal so every lesson runs without install.
 
 
 ## LLM Books
